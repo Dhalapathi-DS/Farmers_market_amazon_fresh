@@ -1,2 +1,2 @@
 # Farmers_market_amazon_fresh
- This project analyzes a comprehensive dataset from a farmers' market to gain insights into sales trends, customer behavior, vendor performance, and market conditions. The analysis is conducted using SQL, leveraging the relational database schema provided.
+ This project involves analyzing sales data, booth utilization, and the impact of weather conditions on a farmer's market. Using SQL, we explore various aspects of market performance, including customer segmentation, product performance, vendor analysis, weather impact, and booth allocation. The insights from this analysis aim to optimize market strategies and improve overall performance.
